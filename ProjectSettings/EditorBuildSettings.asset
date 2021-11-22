@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Minecraft/Scenes/test/SingleplayerURPlow.unity
+    guid: 23bbc9f5d68415946b9612a60b57260c
+  - enabled: 1
+    path: Assets/Minecraft/Scenes/test/SingleplayerURPlowShouji.unity
+    guid: 6d130f90b662ea84a8b10f56fdc9539e
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
